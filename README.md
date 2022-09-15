@@ -58,7 +58,11 @@ The page auto-populates with at least one 'Experience.' An experience is the tit
 
 ![step-8](https://user-images.githubusercontent.com/11747875/190510312-96d48f7c-6fbe-4564-b7bf-2e2752b404f5.png)
 
+![step-8b](https://user-images.githubusercontent.com/11747875/190510905-4a40e6db-097d-4b47-ad10-c31fa4b7ba5d.png)
+
 <br>
+
+
 
 <br>
 
