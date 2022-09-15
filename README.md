@@ -70,6 +70,14 @@ Create a second test by either clicking on the three dots > clicking on 'duplica
 
 <br>
 
+## Step 10: Rename the second Experience/Test
+
+Rename the second test.
+
+![step-10](https://user-images.githubusercontent.com/11747875/190512259-6241dade-8472-421b-88b7-b08be65de271.png)
+
+<br>
+
 
 
 <br>
