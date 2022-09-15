@@ -46,7 +46,11 @@ When you click on 'Form', a 'Choose Property' menu will appear.  Choose the 'Chu
 
 <br>
 
+## Step 7: Change 'Untitled Activity' to appropriate activity name
 
+![step-7](https://user-images.githubusercontent.com/11747875/190509895-99e9d396-3e94-469d-9f4d-3ade6764e3ab.png)
+
+<br>
 
 <br>
 
