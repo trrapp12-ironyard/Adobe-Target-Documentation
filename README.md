@@ -40,3 +40,13 @@ When you click on 'Form', a 'Choose Property' menu will appear.  Choose the 'Chu
 
 <br>
 
+## Step 6: Click Next
+
+![step-6](https://user-images.githubusercontent.com/11747875/190509092-d0b2ae2a-5ff1-42e8-9965-8b5b220a9def.png)
+
+<br>
+
+
+
+<br>
+
