@@ -31,3 +31,12 @@ Visual is a WYSIWYG format that is fairly hard to work with.  Change it to form 
 ![step-4](https://user-images.githubusercontent.com/11747875/190508023-e5c96145-c8d1-4b70-a3df-198d261a5643.png)
 
 <br>
+
+## Step 5: Make sure 'ChurchOfJesusChrist - Prod' is selected
+
+When you click on 'Form', a 'Choose Property' menu will appear.  Choose the 'ChurchOfJesusChrist - Prod' option from it.
+
+![step-5](https://user-images.githubusercontent.com/11747875/190508597-77255f36-3b53-4d8e-8aec-8f844b14534b.png)
+
+<br>
+
