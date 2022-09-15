@@ -62,6 +62,14 @@ The page auto-populates with at least one 'Experience.' An experience is the tit
 
 <br>
 
+## Step 9: Create the second Experience/Test
+
+Create a second test by either clicking on the three dots > clicking on 'duplicate' or by clicking on 'Add Experience'
+
+![step-9](https://user-images.githubusercontent.com/11747875/190511797-af0aaf9a-42a2-40b4-b70f-e593846c5215.png)
+
+<br>
+
 
 
 <br>
