@@ -52,5 +52,13 @@ When you click on 'Form', a 'Choose Property' menu will appear.  Choose the 'Chu
 
 <br>
 
+## Step 8: Rename 'Experience A' to 'Control' or 'V01'
+
+The page auto-populates with at least one 'Experience.' An experience is the title of the version of the test that viewer may see.  Our naming conventions would name it either 'Control' or the version number.  I.e. 'V01'
+
+![step-8](https://user-images.githubusercontent.com/11747875/190510312-96d48f7c-6fbe-4564-b7bf-2e2752b404f5.png)
+
+<br>
+
 <br>
 
