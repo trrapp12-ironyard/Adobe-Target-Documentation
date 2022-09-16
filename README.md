@@ -96,7 +96,9 @@ Click on 'Add Audience Refinements' underneath the input field.
 
 ## Step 13: Click "Create Audience"
 
+![real-step-13](https://user-images.githubusercontent.com/11747875/190555896-5cbb4839-6a50-4fed-a01f-280802f77dff.png)
 
+<br>
 
 ## Step 14: Drag and Drop 'Site Pages' and other Logical attributes
 
