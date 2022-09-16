@@ -152,7 +152,7 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 
 ## Step 22: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190668805-6244075f-b33c-4e08-ad5a-6fc911a137ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668771-53571cc7-a1a3-4cc1-a1b3-e0ec4d780385.png)
 
 <br>
 
