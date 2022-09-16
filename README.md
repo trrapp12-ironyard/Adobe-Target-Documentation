@@ -94,11 +94,10 @@ Click on 'Add Audience Refinements' underneath the input field.
 
 <br>
 
-## Step 13: 
-
-<br>
-
-## Step 14: Drag and Drop 'Site Pages' and other Logical attributes
+## Step 13: Drag and Drop 'Site Pages' and other Logical attributes
 
 Drag-and-drop 'Site Pages' to the center.  This will control which page is affected.  There may be other logical attributes you may want to add to the test as well
 
+![Step 14](https://user-images.githubusercontent.com/11747875/190555132-93522a7d-27db-48b6-86de-50cb2fcba019.png)
+
+<br>
