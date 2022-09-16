@@ -78,6 +78,11 @@ Rename the second test.
 
 <br>
 
+## Step 11: Fill in the Location for each Experience
+
+Click on the experience on the left column.  Then in the middle there will be an input field to put in information for the Location.  Type in 'target' and 'target-global-mbox' will autopopulate in a list.  Choose that. 
+
+
 
 
 <br>
