@@ -114,13 +114,25 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 16: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 17: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+
+<br>
+
+## Step 18: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+
+<br>
+
+## Step 19: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
 
@@ -128,13 +140,7 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 
 ## Step 20: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
-
-<br>
-
-## Step 20: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
-
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668654-14f93041-73fe-4aca-be6b-cf27b5169066.png)
 
 <br>
 
@@ -145,12 +151,6 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 <br>
 
 ## Step 22: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
-
-![step-15](https://user-images.githubusercontent.com/11747875/190668771-53571cc7-a1a3-4cc1-a1b3-e0ec4d780385.png)
-
-<br>
-
-## Step 23: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668805-6244075f-b33c-4e08-ad5a-6fc911a137ea.png)
 
