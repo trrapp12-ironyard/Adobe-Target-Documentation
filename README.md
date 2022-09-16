@@ -86,3 +86,11 @@ Click on the experience on the left column.  Then in the middle there will be an
 
 <br>
 
+## Step 12: Click on 'Add Audience Refinements'
+
+Click on 'Add Audience Refinements' underneath the input field.
+
+![step-12](https://user-images.githubusercontent.com/11747875/190550653-d1241f88-75c5-42a2-ad35-168d04aeafdb.png)
+
+<br>
+
