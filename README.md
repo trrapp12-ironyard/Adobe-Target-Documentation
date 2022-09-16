@@ -126,62 +126,68 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 20: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 20: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 21: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
-
-<br>
-
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
-
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668716-55ed51ba-f98d-4593-b0a1-5564e2916730.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 22: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
-
-<br>
-
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
-
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668771-53571cc7-a1a3-4cc1-a1b3-e0ec4d780385.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 23: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
-
-<br>
-
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
-
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668805-6244075f-b33c-4e08-ad5a-6fc911a137ea.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 23: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668805-6244075f-b33c-4e08-ad5a-6fc911a137ea.png)
 
 <br>
 
-## Step 15: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 23b: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
 
-![step-15](https://user-images.githubusercontent.com/11747875/190556232-c8e0c00d-7e17-41b4-99de-0db9360663ea.png)
+![step-15](https://user-images.githubusercontent.com/11747875/190668870-ce5b1973-a3f8-4ccc-b4f3-8775ef4c6a99.png)
+
+<br>
+
+## Step 24: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190668928-6c80a216-3ab2-419e-aefc-02a12b20807d.png)
+
+<br>
+
+## Step 25: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190668969-4c3ebed5-23c5-44d9-884c-da5c3fa3b4ae.png)
+
+<br>
+
+## Step 26: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669019-9f742b33-aff6-4024-a0e0-cc10235d01e8.png)
+
+<br>
+
+## Step 27: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
 
 <br>
