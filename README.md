@@ -82,8 +82,7 @@ Rename the second test.
 
 Click on the experience on the left column.  Then in the middle there will be an input field to put in information for the Location.  Type in 'target' and 'target-global-mbox' will autopopulate in a list.  Choose that. 
 
-
-
+![Choose Target](https://user-images.githubusercontent.com/11747875/190549738-42babdb5-94df-4263-b7d7-efcc46455ac3.png)
 
 <br>
 
