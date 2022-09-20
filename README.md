@@ -114,78 +114,82 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 
 <br>
 
-## Step 16: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 16: Choose 'Select'
 
 ![Step 16](https://user-images.githubusercontent.com/11747875/190668406-1b192cb8-e724-432c-a277-7fbcfa8490cc.png)
 <br>
 
-## Step 17: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 17: Choose 'Content Pages' 
 
 ![Step 17](https://user-images.githubusercontent.com/11747875/190668474-a0ddb47c-913f-40bc-af3c-3291889204dd.png)
 
 <br>
 
-## Step 18: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 18: Click on the arrow next to the menu 
 
 ![Step 18](https://user-images.githubusercontent.com/11747875/190668544-198301e7-0a48-4ac1-99e3-0f601bb6ae3a.png)
 
 <br>
 
-## Step 19: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 19: Choose 'URL'
 
 ![step-18](https://user-images.githubusercontent.com/11747875/190668600-f4ab5ed3-2ed7-45ab-a97f-5b676291abd5.png)
 
 <br>
 
-## Step 20: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 20: Click the arrow next to the next 'Select' menu
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668654-14f93041-73fe-4aca-be6b-cf27b5169066.png)
 
 <br>
 
-## Step 21: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 21: Choose 'Contains.'  
+
+Note: you may need to switch between 'contains' and 'equals' depending on if you are testing locally or if you are pushing into production.
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668716-55ed51ba-f98d-4593-b0a1-5564e2916730.png)
 
 <br>
 
-## Step 22: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 22: Go to the page you are going to be testing on and copy/paste the URL
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668771-53571cc7-a1a3-4cc1-a1b3-e0ec4d780385.png)
 
 <br>
 
-## Step 23: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 23: Paste the URL into the Values box
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668805-6244075f-b33c-4e08-ad5a-6fc911a137ea.png)
 
 <br>
 
-## Step 23b: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 23b: Notice that if you want to use multiple URLS (i.e. different languages) you can put more than one URL in, but make sure they are on different lines.  There is not ',' or ';' delimiter needed.  
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668870-ce5b1973-a3f8-4ccc-b4f3-8775ef4c6a99.png)
 
 <br>
 
-## Step 24: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 24: Fill out the 'Name' box
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668928-6c80a216-3ab2-419e-aefc-02a12b20807d.png)
 
 <br>
 
-## Step 25: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 25: Click 'Done'
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668969-4c3ebed5-23c5-44d9-884c-da5c3fa3b4ae.png)
 
 <br>
 
-## Step 26: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 26: Click the checkbox next to 'main'.
+
+Note: in this example the word 'main' is what I called it.  It will be different according to what you name it.
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190669019-9f742b33-aff6-4024-a0e0-cc10235d01e8.png)
 
 <br>
 
-## Step 27: Choose 'This Activity Only' ( DON'T CHOOSE AUDIENCE LIBRARY)
+## Step 27: Click 'Assign Audience'
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
 
