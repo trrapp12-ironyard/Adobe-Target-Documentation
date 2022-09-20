@@ -284,19 +284,19 @@ Note: in this example the word 'main' is what I called it.  It will be different
 
 ## Step 42: Click 'Assign Audience'
 
-![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+![step-15](https://user-images.githubusercontent.com/11747875/191378681-d5398e80-9ded-4f4e-9113-bbe1d9c7c0c9.png)
 
 <br>
 
 ## Step 43: Click 'Assign Audience'
 
-![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+![step-15](https://user-images.githubusercontent.com/11747875/191378705-5a0a9c28-96ea-4c2e-9a75-33b784789e62.png)
 
 <br>
 
 ## Step 44: Click 'Assign Audience'
 
-![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+![Step 44](https://user-images.githubusercontent.com/11747875/191378754-5f0d7ca1-7351-408d-8186-4a42dbf694ef.png)
 
 <br>
 
