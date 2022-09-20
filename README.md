@@ -196,3 +196,112 @@ Note: in this example the word 'main' is what I called it.  It will be different
 ![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
 
 <br>
+
+## Step 28: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 29: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 30: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 31: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 32: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 33: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 34: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 35: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 36: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 37: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 38: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 39: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 40: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 41: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 42: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 43: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 44: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
+## Step 45: Click 'Assign Audience'
+
+![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+
+<br>
+
