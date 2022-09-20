@@ -265,13 +265,13 @@ Note: in this example the word 'main' is what I called it.  It will be different
 
 <br>
 
-## Step 39: Click 'Assign Audience'
+## Step 39: In the Github repository, navigate to the .env file and put the campaign id in the ABCONFIG_CAMPAIGN_ID 
 
 ![Step 39](https://user-images.githubusercontent.com/11747875/191376787-14125606-9473-4f00-8ec6-380ddea67e3f.png)
 
 <br>
 
-## Step 40: Click 'Assign Audience'
+## Step 40: Click on 'Activity QA' link.
 
 ![Step 40](https://user-images.githubusercontent.com/11747875/191378568-d1f39b92-fafc-4caf-8e9f-926b50d0a0cb.png)
 <br>
