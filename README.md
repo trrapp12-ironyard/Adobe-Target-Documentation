@@ -276,31 +276,25 @@ Note: in this example the word 'main' is what I called it.  It will be different
 ![Step 40](https://user-images.githubusercontent.com/11747875/191378568-d1f39b92-fafc-4caf-8e9f-926b50d0a0cb.png)
 <br>
 
-## Step 41: Click 'Assign Audience'
-
-![step-15](https://user-images.githubusercontent.com/11747875/191378610-81988471-0f43-44c1-aae2-7e2ab015180a.png)
-
-<br>
-
-## Step 42: Type in the URL for the page that will be displaying
+## Step 41: Type in the URL for the page that will be displaying
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191378681-d5398e80-9ded-4f4e-9113-bbe1d9c7c0c9.png)
 
 <br>
 
-## Step 43: Copy and Paste the new URL for the version you want to see
+## Step 42: Copy and Paste the new URL for the version you want to see
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191378705-5a0a9c28-96ea-4c2e-9a75-33b784789e62.png)
 
 <br>
 
-## Step 44: Click 'Done'
+## Step 43: Click 'Done'
 
 ![Step 44](https://user-images.githubusercontent.com/11747875/191378754-5f0d7ca1-7351-408d-8186-4a42dbf694ef.png)
 
 <br>
 
-## Step 45: Search for the URL
+## Step 44: Search for the URL
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191378786-8ff83b75-232d-4d4e-8a1d-aba70bf355fb.png)
 
