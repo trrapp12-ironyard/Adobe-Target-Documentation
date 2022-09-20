@@ -302,7 +302,7 @@ Note: in this example the word 'main' is what I called it.  It will be different
 
 ## Step 45: Click 'Assign Audience'
 
-![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
+![step-15](https://user-images.githubusercontent.com/11747875/191378786-8ff83b75-232d-4d4e-8a1d-aba70bf355fb.png)
 
 <br>
 
