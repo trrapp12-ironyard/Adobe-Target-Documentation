@@ -163,7 +163,9 @@ Note: you may need to switch between 'contains' and 'equals' depending on if you
 
 <br>
 
-## Step 23b: Notice that if you want to use multiple URLS (i.e. different languages) you can put more than one URL in, but make sure they are on different lines.  There is not ',' or ';' delimiter needed.  
+## Step 23b: Notice...
+
+...that if you want to use multiple URLS (i.e. different languages) you can put more than one URL in, but make sure they are on different lines.  There is not ',' or ';' delimiter needed.  
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190668870-ce5b1973-a3f8-4ccc-b4f3-8775ef4c6a99.png)
 
