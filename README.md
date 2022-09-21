@@ -204,31 +204,31 @@ Note: in this example the word 'main' is what I called it.  It will be different
 
 <br>
 
-## Step 29: Click 'Assign Audience'
+## Step 29: Make sure 'main' is checked and click 'Assign Audience'
 
 ![step-15](https://user-images.githubusercontent.com/11747875/190669059-39a47af1-4629-4fa1-906d-05f0090267dd.png)
 
 <br>
 
-## Step 30: Click 'Assign Audience'
+## Step 30: Type in what the objective is
 
 ![Step 30](https://user-images.githubusercontent.com/11747875/191375202-8943fa27-3cef-41cb-bb63-88fc7df8f9b7.png)
 
 <br>
 
-## Step 31: Click 'Assign Audience'
+## Step 31: Choose appropriate Priority
 
 ![step 31](https://user-images.githubusercontent.com/11747875/191375246-87948a4a-a402-48bf-a285-5fe247e7e88c.png)
 
 <br>
 
-## Step 32: Click 'Assign Audience'
+## Step 32: For duration choose Start > 'When activated', and End > 'When deactivated'
 
 ![step 32](https://user-images.githubusercontent.com/11747875/191375279-359c523d-a699-4226-b64f-14ab41c114b0.png)
 
 <br>
 
-## Step 33: Click 'Assign Audience'
+## Step 33: Click arrow under Reporting Source > Adobe Analytics
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191375331-b1aeb043-f13b-41b3-aa8d-e4f8c06a40ad.png)
 
