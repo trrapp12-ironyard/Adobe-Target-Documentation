@@ -234,32 +234,32 @@ Note: in this example the word 'main' is what I called it.  It will be different
 
 <br>
 
-## Step 34: Click 'Assign Audience'
+## Step 34: Under company put 'LDS' and 'Church of Jesus Christ Global - Production'
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191375369-d83b060d-9476-46a8-a81a-e783d3552a20.png)
 
 <br>
 
-## Step 35: Click 'Assign Audience'
+## Step 35: In 'Goal Metric' choose 'Use an Analytics metric' and 'A/B Clicked Element (e954)'
 
 ![step-15](https://user-images.githubusercontent.com/11747875/191375410-3c62b080-1945-40aa-8342-76222de767e3.png)
 
 <br>
 
-## Step 36: Click 'Assign Audience'
+## Step 36: Put information in Notes
 
 ![Step 36](https://user-images.githubusercontent.com/11747875/191375452-88ad2883-2a70-415b-baec-78b30a0b3dde.png)
 
 
 <br>
 
-## Step 37: Click 'Assign Audience'
+## Step 37: Click 'Save and Close'
 
 ![Step 37](https://user-images.githubusercontent.com/11747875/191375474-53e07252-ad03-463b-ab22-0427fb634ff2.png)
 
 <br>
 
-## Step 38: Click 'Assign Audience'
+## Step 38: Get the Activity ID
 
 ![Step 38](https://user-images.githubusercontent.com/11747875/191381926-54919820-dc79-4299-93cb-b9ea8e5ad290.png)
 
