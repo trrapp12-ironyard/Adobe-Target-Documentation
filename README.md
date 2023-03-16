@@ -119,7 +119,7 @@ Drag-and-drop 'Site Pages' to the center.  This will control which page is affec
 ![Step 16](https://user-images.githubusercontent.com/11747875/190668406-1b192cb8-e724-432c-a277-7fbcfa8490cc.png)
 <br>
 
-## Step 17: Choose 'Content Pages' 
+## Step 17: Choose 'Current Pages' 
 
 ![Step 17](https://user-images.githubusercontent.com/11747875/190668474-a0ddb47c-913f-40bc-af3c-3291889204dd.png)
 
